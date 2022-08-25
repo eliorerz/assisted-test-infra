@@ -1,7 +1,7 @@
-boto3==1.24.42
-debugpy==1.6.2
+boto3==1.24.60
+debugpy==1.6.3
 dnspython==2.2.1
-filelock==3.7.1
+filelock==3.8.0
 frozendict==2.3.4
 ipdb==0.13.9
 ipython==8.4.0
@@ -29,7 +29,7 @@ scp==0.14.4
 semver==2.13.0
 tabulate==0.8.10
 tqdm==4.64.0
-urllib3==1.26.11
+urllib3==1.26.12
 pyvmomi>=7.0.2
 waiting>=1.4.1
 prompt_toolkit==3.0.30
